@@ -2,8 +2,8 @@
 
 ### MATLAB on Windows/MacOS/Ubuntu 20.04 (or 18.04)
 
-  * Install MATLAB (version >= R2020b) with the following toolboxes,
-    or if already done, add the ones missing with the add-on manager:
+  * Install MATLAB R2021a with the following toolboxes
+    (or add them with the add-on manager):
     - MATLAB Coder
     - MATLAB Compiler
     - MATLAB Compiler SDK
